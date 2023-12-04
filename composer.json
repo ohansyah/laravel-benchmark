@@ -13,7 +13,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ohansyah\\Laravelbenchmark\\": "src/"
+            "Ohansyah\\LaravelBenchmark\\": "src/"
         }
     },
     "authors": [

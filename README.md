@@ -20,7 +20,7 @@ composer require ohansyah/laravelbenchmark
 <?php
  
 use App\Models\User;
-use Illuminate\Support\Benchmark;
+use Ohansyah\LaravelBenchmark\Benchmark;
  
 Benchmark::dd(
     function () { range(1, 1000000); }
